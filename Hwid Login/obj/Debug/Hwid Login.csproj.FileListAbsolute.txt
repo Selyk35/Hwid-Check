@@ -1,0 +1,11 @@
+C:\Users\hsyn\Desktop\Hwid Login\Hwid Login\obj\Debug\Hwid Login.csproj.AssemblyReference.cache
+C:\Users\hsyn\Desktop\Hwid Login\Hwid Login\obj\Debug\Hwid_Login.Form1.resources
+C:\Users\hsyn\Desktop\Hwid Login\Hwid Login\obj\Debug\Hwid Login.csproj.GenerateResource.cache
+C:\Users\hsyn\Desktop\Hwid Login\Hwid Login\obj\Debug\Hwid Login.csproj.CoreCompileInputs.cache
+C:\Users\hsyn\Desktop\Hwid Login\Hwid Login\obj\Debug\Hwid Login.csproj.CopyComplete
+C:\Users\hsyn\Desktop\Hwid Login\Hwid Login\bin\Debug\Hwid Login.exe.config
+C:\Users\hsyn\Desktop\Hwid Login\Hwid Login\bin\Debug\Hwid Login.exe
+C:\Users\hsyn\Desktop\Hwid Login\Hwid Login\bin\Debug\Hwid Login.pdb
+C:\Users\hsyn\Desktop\Hwid Login\Hwid Login\obj\Debug\Hwid_Login.Properties.Resources.resources
+C:\Users\hsyn\Desktop\Hwid Login\Hwid Login\obj\Debug\Hwid Login.exe
+C:\Users\hsyn\Desktop\Hwid Login\Hwid Login\obj\Debug\Hwid Login.pdb
