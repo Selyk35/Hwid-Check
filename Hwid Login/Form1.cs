@@ -52,7 +52,7 @@ namespace Hwid_Login
         private void guna2Button1_Click(object sender, EventArgs e)
         {
             WebClient wb = new WebClient();
-            string Hwıd = wb.DownloadString("https://github.com/Selyk35/Deneme_Hwid/raw/main/Hwid.txt"); // hwid list where u saving hwid's
+            string Hwıd = wb.DownloadString("https://raw.githubusercontent.com/Selyk35/Hwid-Check/main/Hwid.txt"); 
             if (Hwıd.Contains(guna2TextBox1.Text))
             {
                 MessageBox.Show("Hwid'iniz listede :)");
